@@ -13,7 +13,7 @@ services:
     expose:
       - "3306"
   web:
-    image: chriswayg/concrete5.7
+    build: provision
     restart: always
     ports: 
      - "80:80"
