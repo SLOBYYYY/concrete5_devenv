@@ -1,0 +1,9 @@
+.form-group.required label:after{
+   color: red;
+   content: "*";
+   position: absolute;
+   margin-left: 5px;
+   font-family: 'Glyphicons Halflings';
+    font-weight: normal;
+    font-size: .75rem;
+}

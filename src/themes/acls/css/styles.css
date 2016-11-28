@@ -1,0 +1,78 @@
+.acls-header {
+	background-image: url("images/header-bg.jpg");
+	background-repeat: no-repeat;
+	background-position-x: center;
+}
+
+footer {
+    background-color: #f8f8f8;
+}
+
+.sidebar-component .btn-default {
+    background-color: rgb(68, 110, 169);
+    color:  #fff;
+}
+
+.navbar-default {
+	background-color: transparent;
+	border-color: transparent;
+}
+
+.navbar-default .navbar-nav > li > a {
+	color: #000;
+}
+
+.navbar-nav > li {
+	text-transform: uppercase;
+	margin-top: 18px;
+}
+
+.navbar-title {
+	text-transform: uppercase;
+	color: red;
+	font-weight: bold;
+	font-size: 30px;
+	margin-top: 10px;
+	padding-bottom: 3px;
+	height: 35px;
+	color: #df5451 !important;
+}
+
+.subtitle {
+	clear: left;
+	font-size: 12px;
+	color: grey;
+	text-transform: uppercase;
+}
+
+.course-form h3 {
+	text-transform: uppercase;
+	color: #df5451 !important;
+	font-weight: bold;
+}
+
+.course-form .course-group {
+	border: 2px solid #df5451;
+	background-color: #fff;
+	margin: auto 5px;
+	width: 24%;
+}
+
+.course-form .course-checkbox-name {
+	color: #df5451 !important;
+}
+
+.course-form .course-price {
+	color: #4fc9e0 !important;
+}
+
+.checkout-button {
+	background-color: #df5451 !important;
+	text-transform: uppercase;
+	border-radius: 0px;
+	color: #fff;
+	font-size: 15px;
+	padding: 10px 50px;
+	margin-top: 25px;
+	font-weight: bold;
+}

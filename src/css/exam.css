@@ -1,0 +1,102 @@
+h4.questionblock {
+	margin-top:0;
+	margin-bottom: 21px;
+	margin-bottom: 1.5rem;
+	font-weight: 700;
+}
+
+.answer-text {
+	font-weight: 400;
+}
+
+div.exam-directions label {
+  display: block;
+  margin-bottom: 0;
+}
+
+div.exam-directions  label input {
+margin:0px;
+padding:0px;
+float:left;
+margin-top: .5rem;
+}
+
+div.exam-directions  label div.answer-text {
+margin-left: 20px;
+line-height:18px;
+}
+.save-buttons {
+  background: none repeat scroll 0 0 #FFFFFF;
+  border-top: 2px solid #253CA2;
+  bottom: 0;
+  padding: 10px;
+  position: fixed;
+  right: 0;
+  width: 100%;
+	z-index: 2;
+}
+
+.exam-buttons__button {
+	margin-right: 14px;
+	margin-right: 1rem;
+}
+
+.exam-buttons .save-test {
+width: 500px;
+margin: 0 auto;
+}
+/*
+div.save-buttons p {
+float:left;
+width: 320px;
+font-size:14px;
+text-shadow: 0px 1px 0px #ffffff;
+}
+*/
+.question-area{
+/*display:inline-block;*/
+/*width:675px;*/
+	margin-bottom: 21px;
+	border-bottom: 1px solid #e2efff;
+}
+
+div.exam-directions div.ccm-ui div.alert {
+float:right;
+width:629px;
+}
+
+.alert {
+    background-color: green;
+    padding: 1rem;
+    margin: 1rem 0rem;
+    font-size: 1.25rem;
+    font-weight: bold;
+    color: #fff;
+}
+.failure {
+    margin-bottom: 21px;
+    margin-bottom: 1.5rem;
+    color: red;
+    font-size: 1.1em;
+    font-weight: bold;
+    width: 100%;
+    display: inline-block;
+    padding: 9px;
+    border: 2px solid red;
+}
+
+.answer-text {
+ padding: .5rem;
+ 
+}
+.answer-text.incorrect {
+    text-decoration: line-through;
+    color: red;
+}
+.answer-text.correct {
+    border: 2px solid green;
+    width: auto;
+    display: inline;
+    border-radius: 50%;
+    font-weight: bold;
+}

@@ -1,0 +1,479 @@
+div.ccm-ui div.ccm-form form div label {
+float:left;
+width: 100px;
+}
+input#uMaintainLogin.ccm-input-checkbox {
+float:left;
+margin-right: 10px;
+}
+
+div#central.central-left table tbody tr td div.ccm-ui div.ccm-form form label {
+float:left;
+}
+
+div#central.central-left table tbody tr td div.ccm-ui div.ccm-form form {
+margin-top:15px;
+}
+
+
+.right-align {
+float:right;
+margin: 10px 0 25px 25px;
+}
+
+.left-align {
+float:left;
+margin: 10px 25px 25px 0;
+}
+
+.main-column hr {
+background-color: #003399;
+border-width: 0;
+color: #003399;
+height: 1px;
+line-height: 0;
+margin: -10px 0 10px;
+page-break-after: always;
+text-align: center;
+}
+
+
+div.main-column p {
+padding: 10px 0;
+}
+
+
+#central .column-left {
+float:left;
+padding: 25px 10px 10px 0px;
+}
+
+.column-left #pageTitle {
+width: 90%;
+}
+
+#central .column-right {
+float:right;
+padding: 25px 0px 25px 0px;
+margin-left:20px;
+}
+
+#central .large {
+width: 665px;
+}
+
+#central .small {
+width: 265px;
+}
+
+.breadcrumb-navigation {
+padding: 10px 0px;
+}
+
+.user-name {
+font-size: 1.25em;
+font-weight:bold;
+}
+
+#side-menu .box-heading  {
+color: #fff;
+margin-bottom: 0px;
+width:252px;
+padding: 7px 5px;
+background: #01a4db;
+background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIxNiUiIHN0b3AtY29sb3I9IiMwMWE0ZGIiIHN0b3Atb3BhY2l0eT0iMSIvPgogICAgPHN0b3Agb2Zmc2V0PSI4OCUiIHN0b3AtY29sb3I9IiMxMDRjODIiIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
+background: -moz-linear-gradient(top,  #01a4db 16%, #104c82 88%);
+background: -webkit-gradient(linear, left top, left bottom, color-stop(16%,#01a4db), color-stop(88%,#104c82));
+background: -webkit-linear-gradient(top,  #01a4db 16%,#104c82 88%);
+background: -o-linear-gradient(top,  #01a4db 16%,#104c82 88%);
+background: -ms-linear-gradient(top,  #01a4db 16%,#104c82 88%);
+background: linear-gradient(top,  #01a4db 16%,#104c82 88%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#01a4db', endColorstr='#104c82',GradientType=0 );
+}
+
+#side-menu .box {
+padding: 10px;
+width:240px;
+}
+
+span.retakes {
+color: red;
+}
+ul.test-list {
+font-size: 1.1em;
+list-style: none;
+list-style-type: none;
+list-style-position: inside;
+margin: 0;
+padding-left: 1em;
+text-indent: -1em;
+}
+
+.failure {
+  margin-bottom:  21px;
+  margin-bottom:  1.5rem;
+  color: red;
+  font-size: 1.1em;
+  font-weight: bold;
+  width: 100%;
+  display: inline-block;
+  padding: 9px;
+  border: 2px solid red
+}
+
+.success {
+  color: green;
+  font-size: 1.1em;
+  font-weight: bold;
+  margin: 5px;
+  width: 600px;
+  display: inline-block;
+  padding: 9px;
+  border: 2px solid green;
+}
+
+.question {
+font-size: 1.2em;
+font-weight:bold;
+padding: 10px 0px;
+clear:both;
+}
+
+.answer {
+padding: 5px;
+clear:both;
+}
+
+.blank {
+width:15px;
+float:left;
+clear:left;
+}
+
+.answer .text {
+margin-left: 5px;
+float:left;
+clear:right;
+width: 620px;
+}
+
+/*div.my-history tr.odd {
+background-color: #F1F1F1;
+}*/
+
+/div.ccm-profile-attribute div.control-group label.control-label{
+  float: left;
+  padding-top: 5px;
+  text-align: right;
+  width: 160px;
+  margin-right:20px;
+}
+
+
+
+div.ceh div {
+width:220px;
+}
+
+
+h4.questionblock {
+margin:40px 0 10px 0;
+}
+
+div.exam-directions label {
+  display: block;
+}
+
+div.exam-directions  label input {
+margin:0px;
+padding:0px;
+float:left;
+}
+
+div.exam-directions  label div.answer-text {
+margin-left: 20px;
+line-height:18px;
+}
+
+table.address {
+float:left;
+width: 100%;
+}
+
+div.ccm-profile-attribute div.clearfix {
+margin-left: 0px;
+width: 100%;
+}
+
+div.clearfix label {
+float:left;
+width: 163px;
+}
+
+div.ccm-profile-attribute fieldset div.ccm-attribute-address-line label {
+width: 163px;
+}
+
+div.clearfix div.input {
+margin-left:0px;
+}
+
+div.input fieldset {
+margin: 0px;
+padding: 0px;
+width: 515px;
+}
+
+div.clearfix div.input fieldset div.ccm-attribute-address-line {
+margin: 8px 0px;
+}table.credit-table {border-collapse:collapse;width: 100%;}table.credit-table td, table.credit-table th{border: 1px solid grey;text-align:center;}table.credit tr td:first-child {text-align:left;}
+
+/*.rollover a{
+   display: block;
+   text-indent: -9999px;
+   margin: auto auto auto auto;
+   cursor: pointer;
+   outline: transparent solid 0px;
+}
+#save-changes, #grade-exam {
+width: 177px;
+margin: 10px auto;
+}
+#save-changes a{
+   height: 40px; 
+   width: 177px; 
+   background: url('images/save_changes.jpg') no-repeat left top;
+}
+
+#grade-exam a{
+   height: 40px; /*This height is the visible portion of the button only*/
+   width: 177px; /*Put your image width here*/
+   background: url('images/grade_exam.jpg') no-repeat left top;
+}*/
+
+#proceed_to_checkout {
+width: 257px;
+margin: 10px auto;
+}
+
+#proceed_to_checkout a{
+   height: 40px; /*This height is the visible portion of the button only*/
+   width: 257px; /*Put your image width here*/
+   background: url('images/proceed_to_checkout.jpg') no-repeat left top;
+}
+
+#add_course_to_cart{
+width: 257px;
+margin: 10px;
+}
+
+#add_course_to_cart a{
+   height: 40px; /*This height is the visible portion of the button only*/
+   width: 257px; /*Put your image width here*/
+   background: url('images/add_course_to_cart.jpg') no-repeat left top;
+}
+
+#submit_payment{
+width: 257px;
+margin: 10px;
+}
+
+#submit_payment a{
+   height: 40px; /*This height is the visible portion of the button only*/
+   width: 257px; /*Put your image width here*/
+   background: url('images/submit_payment.jpg') no-repeat left top;
+}
+
+
+#save-changes a:hover, #grade-exam a:hover, #proceed_to_checkout a:hover, #add_course_to_cart a:hover, #submit_payment a:hover{
+   background-position: left -40px; /*This negative value should match the height above*/
+}
+
+/*table.order-history, table.exam-history, table.credit-table{
+border-collapse:collapse;
+width: 100%;
+
+}*/
+/*.order-history td.label, .order-history th, table.exam-history th, table.credit-table th {
+  background-color: #1B3E92;
+  font-weight:bold;
+  color: #FFFFFF;
+  padding: 5px;
+}
+
+.order-history td, table.exam-history td, table.credit-table td{
+border: 1px solid #E8E8E8;
+padding: 3px;
+}*/
+
+div.order-table {
+
+margin-bottom: 10px;
+
+}
+
+ul.type-list, ul.feature-list, ul.shipping-list{
+float:left;
+list-style: none outside none;
+}
+
+ul.type-list li label input {
+float:left;
+}
+
+#checkout_modal {
+display:none;
+  background: url('images/ajax-loader.gif') no-repeat 132px 20px #F1F1F1;
+  border: 3px solid #BC2426;
+  height: 100px;
+  left: 50%;
+  padding-top:25px;
+  margin-left: -150px;
+  margin-top: -50px;
+  position: fixed;
+  text-align: center;
+  top: 50%;
+  width: 300px;
+  z-index: 1000;
+  -moz-box-shadow: 10px 10px 5px #888;
+-webkit-box-shadow: 10px 10px 5px #888;
+box-shadow: 10px 10px 5px #888;
+}
+
+
+form#purchase fieldset {
+width: 425px;
+}
+
+form#purchase  ul{
+  padding: 0px;
+}
+
+ul.type-list {
+  font-size: 16px;
+  line-height: 25px;
+  font-weight: bold;
+}
+
+div.description {
+width: 230px;
+float:right;
+}
+
+div.message {
+padding: 10px;
+margin:10px 0;
+background:#249D09;
+color: #fff;
+font-weight:bold;
+-webkit-border-radius: 5px;
+border-radius: 5px;
+width:720px;
+}
+
+
+div#ceh_form ul.inputs-list {
+margin: 0;
+padding: 0;
+list-style: none;
+}
+
+div#ceh_form input.ccm-input-checkbox {
+margin:0px;
+}
+
+div#ceh_form div.input {
+margin-left: 10px;
+}
+
+.ccm-ui.btn:link {
+color: #000;
+
+}
+
+
+.btn:hover {
+color: #000;
+
+}
+
+div.ccm-attribute-address-line {
+margin-bottom: 10px;
+}
+
+.red {
+color: #921800;
+padding-left:5px;
+}
+
+.save-buttons {
+  background: none repeat scroll 0 0 #FFFFFF;
+  border-top: 2px solid #253CA2;
+  bottom: 0;
+  padding: 10px;
+  position: fixed;
+  right: 0;
+  width: 100%;
+  z-index:100;
+}
+
+.save-buttons .save-test {
+width: 500px;
+margin: 0 auto;
+}
+div.save-buttons p {
+float:left;
+width: 320px;
+font-size:14px;
+text-shadow: 0px 1px 0px #ffffff;
+}
+.question-area{
+display:inline-block;
+width:675px;
+}
+
+div.exam-directions div.ccm-ui div.alert {
+float:right;
+width:629px;
+}
+
+.shipping-table div.price-column {
+    display: block;
+    float: right;
+}
+.shipping-table div.hidden {
+    display: none;
+}
+.shipping-table input {
+    float: left;
+    margin-right: 5px;
+}
+.shipping-table hr {
+    clear: both;
+    display: block;
+    margin-bottom: 10px !important;
+}
+.shipping-table h3, .shipping-table h4 {
+    float: left;
+    margin-left: 10px !important;
+}
+.shipping-table .features, .shipping-table .shipping, .shipping-table .shipping label {
+    clear: both;
+    margin-left: 10px;
+}
+.shipping-table .total-box {
+    float: right;
+    font-size: 16px;
+}
+
+.ajax-errors {
+  color: #FF0000 !important;
+}
+
+#submit-payment{
+cursor:pointer;
+}
+
+.strike {
+text-decoration:line-through;
+}
