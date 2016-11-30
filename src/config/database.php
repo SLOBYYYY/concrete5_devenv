@@ -8,7 +8,7 @@ return array(
             'server' => 'db',
             'database' => 'aclsnat_c5',
             'username' => 'aclsnat_c5user',
-            'password' => '3c]zrdSBDOea',
+            'password' => 'PASSWORD',
             'charset' => 'utf8',
         ),
     ),

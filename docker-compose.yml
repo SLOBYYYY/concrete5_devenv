@@ -6,7 +6,7 @@ services:
     environment:
       MYSQL_ROOT_PASSWORD: admin
       MYSQL_USER: aclsnat_c5user
-      MYSQL_PASSWORD: 3c]zrdSBDOea
+      MYSQL_PASSWORD: PASSWORD
       MYSQL_DATABASE: aclsnat_c5
     volumes_from:
      - data
